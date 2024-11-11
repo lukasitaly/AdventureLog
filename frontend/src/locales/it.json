@@ -1,8 +1,8 @@
 {
   "about": {
-    "about": "Di",
-    "close": "Vicino",
-    "license": "Concesso in licenza con la licenza GPL-3.0.",
+    "about": "Informazioni su",
+    "close": "Chiudi",
+    "license": "Licenziato sotto la Licenza GPL-3.0.",
     "message": "Realizzato con ❤️ negli Stati Uniti.",
     "nominatim_1": "La ricerca della posizione e la geocodifica sono fornite da",
     "nominatim_2": "I loro dati sono concessi in licenza con la licenza ODbL.",
@@ -373,14 +373,14 @@
     "view_details": "Visualizza dettagli"
   },
   "languages": {
-    "de": "tedesco",
+    "de": "Tedesco",
     "en": "Inglese",
-    "es": "spagnolo",
+    "es": "Spagnolo",
     "fr": "francese",
     "it": "Italiano",
     "nl": "Olandese",
-    "sv": "svedese",
-    "zh": "cinese"
+    "sv": "Svedese",
+    "zh": "Cinese"
   },
   "share": {
     "no_users_shared": "Nessun utente condiviso con",
@@ -395,7 +395,7 @@
     "set_public": "Per consentire agli utenti di condividere con te, è necessario che il tuo profilo sia impostato su pubblico."
   },
   "profile": {
-    "member_since": "Membro da allora",
+    "member_since": "Membro dal",
     "user_stats": "Statistiche utente",
     "visited_countries": "Paesi visitati",
     "visited_regions": "Regioni visitate"
